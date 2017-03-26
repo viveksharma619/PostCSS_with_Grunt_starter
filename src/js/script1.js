@@ -1,0 +1,1 @@
+alert("always be awesome");
